@@ -22,7 +22,7 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Ты будешь моим валентином?",                                    // First interaction
+            text: "Готова ответить на один вопрос?",                                    // First interaction
             yesBtn: "ДА",                                             // Text for "Yes" button
             noBtn: "Нет",                                               // Text for "No" button
             secretAnswer: "ДАААААААА))! ❤️"           // Secret hover message
