@@ -9,7 +9,7 @@ const CONFIG = {
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Будешь моим валентином? 💝",
+    pageTitle: "Готова ответить на один вопрос? 💝",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -49,7 +49,7 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "уииии я самый богатый в эмом мире и речь не о деньгах)) 🎉💝💖💝💓",
+        title: "уииии я самый богатый в этом мире и речь не о деньгах)) 🎉💝💖💝💓",
         message: "твой подарочек плюс вайбик для красивого ремонта и легких отводов)",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
